@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 67cd1da8274f8a9a9f052b17b680cd6eef2cfe19 Eshan133 <ishan.maharjan5@gmail.com> 1778133951 +0545	initial pull
+67cd1da8274f8a9a9f052b17b680cd6eef2cfe19 0f348c7a73c62eaaa7e2148dfb1b7d294221f7c3 Eshan133 <ishan.maharjan5@gmail.com> 1778133951 +0545	commit: Add Week-1 deep learning materials
+0f348c7a73c62eaaa7e2148dfb1b7d294221f7c3 439c002b2eb7dc7948d18f22097169e63e2a358a Eshan133 <ishan.maharjan5@gmail.com> 1778134133 +0545	pull: Fast-forward
+439c002b2eb7dc7948d18f22097169e63e2a358a 828ee52b6dc3283cb17e28fbae75fb6fad49944d Eshan133 <ishan.maharjan5@gmail.com> 1778134264 +0545	commit: Updating
+828ee52b6dc3283cb17e28fbae75fb6fad49944d e7ccd2d4996ae4e61d410ba7912142c2f69f37fa Eshan133 <ishan.maharjan5@gmail.com> 1778134398 +0545	commit: sdsa
+e7ccd2d4996ae4e61d410ba7912142c2f69f37fa 69da5f3499fa554f829cb9553d1496d853aadb9c Eshan133 <ishan.maharjan5@gmail.com> 1778134493 +0545	pull --rebase origin main (start): checkout 69da5f3499fa554f829cb9553d1496d853aadb9c
+69da5f3499fa554f829cb9553d1496d853aadb9c 1f966302c9d30184a417a6d71710e99143959f90 Eshan133 <ishan.maharjan5@gmail.com> 1778134502 +0545	rebase (continue): sdsa
+1f966302c9d30184a417a6d71710e99143959f90 1f966302c9d30184a417a6d71710e99143959f90 Eshan133 <ishan.maharjan5@gmail.com> 1778134502 +0545	rebase (finish): returning to refs/heads/main
+1f966302c9d30184a417a6d71710e99143959f90 50034ed11b33b1abe8c23ae249766994897222cd Eshan133 <ishan.maharjan5@gmail.com> 1778646252 +0545	commit: added notes content
+50034ed11b33b1abe8c23ae249766994897222cd 6082fe3ae6fb1c216995807400768d8e93e6a2d1 Eshan133 <ishan.maharjan5@gmail.com> 1778646304 +0545	pull --rebase origin main (start): checkout 6082fe3ae6fb1c216995807400768d8e93e6a2d1
+6082fe3ae6fb1c216995807400768d8e93e6a2d1 a97345c8e721b05e2b8a43cd62e1b7f19bb3f5c8 Eshan133 <ishan.maharjan5@gmail.com> 1778646321 +0545	rebase (continue): added notes content
+a97345c8e721b05e2b8a43cd62e1b7f19bb3f5c8 a97345c8e721b05e2b8a43cd62e1b7f19bb3f5c8 Eshan133 <ishan.maharjan5@gmail.com> 1778646321 +0545	rebase (finish): returning to refs/heads/main
+a97345c8e721b05e2b8a43cd62e1b7f19bb3f5c8 ca6073a8f3116554081be1f11b743bf02faf64c2 Eshan133 <ishan.maharjan5@gmail.com> 1779587436 +0545	commit: first commit
